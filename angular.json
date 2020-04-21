@@ -42,6 +42,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "test-library"
+    }
+  },
+  "defaultProject": "test-library",
+  "cli": {
+    "analytics": "0e713700-b64e-4a1c-a09a-35ecfe588950"
+  }
 }
